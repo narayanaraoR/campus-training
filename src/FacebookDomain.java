@@ -1,5 +1,5 @@
 
-public class FacebookDomain implements DomainType {
+public class FacebookDomain extends DomainType {
 
 	public FacebookDomain() {
 		
@@ -7,6 +7,7 @@ public class FacebookDomain implements DomainType {
 		// password
 	}
 	public void login(String username, String password) {
+		//Implement the login functionality here
 		System.out.println("Logging using Facebook");
 
 	}

@@ -1,5 +1,5 @@
 
-public class LinkedInDomain implements DomainType
+public class LinkedInDomain extends DomainType
 {
 	public LinkedInDomain() {
 		

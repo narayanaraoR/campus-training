@@ -1,5 +1,5 @@
 
-public class TwitterDomain implements DomainType {
+public class TwitterDomain extends DomainType {
 
 	public TwitterDomain() {
 		// Email:

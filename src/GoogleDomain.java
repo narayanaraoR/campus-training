@@ -1,4 +1,4 @@
-public class GoogleDomain implements DomainType {
+public class GoogleDomain extends DomainType {
 	public GoogleDomain() {
 	
 		// Email:
